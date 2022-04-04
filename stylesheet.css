@@ -3,6 +3,7 @@
 }
 
 body{
+    margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -14,4 +15,12 @@ body{
 }
 .half-width img{
     width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section {
+    height: 500px;
 }
